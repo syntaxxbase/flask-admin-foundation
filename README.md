@@ -43,13 +43,13 @@ Admin Editing Users:
 
 ##### Create your own repository from this Template
 
-Navigate to the [main project page](https://github.com/hack4impact/flask-base) and click the big, green "Use this template" button at the top right of the page. Give your new repository a name and save it.
+Navigate to the [main project page](https://github.com/thecodewall/grantflow-flask) and click the big, green "Use this template" button at the top right of the page. Give your new repository a name and save it.
 
 ##### Clone the repository 
 
 ```
-$ git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-$ cd REPO_NAME
+$ git clone https://github.com/thecodewall/grantflow-flask.git
+$ cd grantflow-flask
 ```
 
 ##### Initialize a virtual environment
@@ -192,8 +192,8 @@ For Windows users having issues with binding to a redis port locally, refer to [
 
 ##### Clone the repository 
 ```
-$ git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-$ cd REPO_NAME
+$ git clone https://github.com/thecodewall/grantflow-flask.git
+$ cd grantflow-flask
 ```
 ##### Create and run the images:
 
